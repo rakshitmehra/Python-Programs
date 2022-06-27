@@ -1,6 +1,6 @@
 tuple.py
 
-# Tuple
+# Tuplee
 a=(5, "Rakshit", 7.7)
 print(a[0])
 print(a)
